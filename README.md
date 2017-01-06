@@ -11,3 +11,5 @@ This project was to become better accquainted with multithreading and C. Two lar
 * Compile: gcc matrix-multiplication.c -o mm.out -Wall -lpthread -lrt -O3 (letter o - 3)
 * Run: ./mm.out n where n is an int.							
 
+## Asciicast
+[![asciicast](https://asciinema.org/a/98426.png)](https://asciinema.org/a/98426)
